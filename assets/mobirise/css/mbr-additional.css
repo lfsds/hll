@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
+
 #menu-a .mbr-brand__name {
   font-size: 16px;
 }
@@ -19,8 +20,12 @@
   font-size: 16px;
 }
 #header4-5 H1 {
-  color: #000000;
-  text-align: right;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 100px;
+}
+#header4-5 I {
   font-family: 'Oswald', sans-serif;
 }
 

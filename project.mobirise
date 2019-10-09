@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-09_1546",
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -59,7 +59,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>关于</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\"><span class=\"mbri-sun2 mbr-iconfont mbr-iconfont-btn\"></span>作者</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>教育背景</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>实习经历</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\"><span class=\"mbri-sun2 mbr-iconfont mbr-iconfont-btn\"></span>获奖经历</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -207,7 +207,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>关于</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\"><span class=\"mbri-sun2 mbr-iconfont mbr-iconfont-btn\"></span>作者</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>教育背景</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>实习经历</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\"><span class=\"mbri-sun2 mbr-iconfont mbr-iconfont-btn\"></span>获奖经历</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -240,7 +240,7 @@
         {
           "_inherit": "msg-box5",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showMeta": false,
             "showText": true,
             "showButtons": false,
@@ -283,8 +283,8 @@
               "active": true
             }
           },
-          "title": "这是用于介绍韩柳柳的个人网站",
-          "text": "<p>待定。。。</p>",
+          "title": "",
+          "text": "<p><br></p><p>2015.08-2019.06 长安大学 广告学专业</p><p>主修课程： 传播学、广告文案、广告效果研究、消费学行为学等 </p><p><br></p><p>2019.09-至今 南京大学 新闻与传播</p><p>主修课程：新闻理论、电视节目个案研究、新媒体研究等</p><p></p>",
           "_tags": [
             "主题"
           ],
@@ -427,7 +427,7 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "showArrow": false,
@@ -446,7 +446,7 @@
             "overlayOpacity": 0.5
           },
           "title": "韩柳柳的特长介绍",
-          "text": "待编辑。。。",
+          "text": "<p><br>2019.06—2019.08 网易传媒科技有限公司 运营编辑实习生</p><p>• 负责网易新闻教育频道个性化机选push\n<br>• 运营网易教育频道官方微博和官方微信，官方微博周阅读量 &nbsp; 平均15w+\n<br><br>2017.07—2017.08 西安顺美广告公司 实习生</p><p>• 负责西安顺美广告公司平面设计及文案策划协助工作。\n<br>• 完成西安民生保险年中表彰大会平面广告图制作及现场布 &nbsp; &nbsp; &nbsp;&nbsp;置。\n<br>\n<br><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "主题"
@@ -485,7 +485,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>关于</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\"><span class=\"mbri-sun2 mbr-iconfont mbr-iconfont-btn\"></span>作者</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>教育背景</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>实习经历</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\"><span class=\"mbri-sun2 mbr-iconfont mbr-iconfont-btn\"></span>获奖经历</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -555,7 +555,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Web Maker Description",
-        "title": "作者",
+        "title": "教育",
         "order": 1
       },
       "components": [
@@ -589,7 +589,7 @@
             "color": "#ffffff",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>关于</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\"><span class=\"mbri-sun2 mbr-iconfont mbr-iconfont-btn\"></span>作者</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>教育背景</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>实习经历</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\"><span class=\"mbri-sun2 mbr-iconfont mbr-iconfont-btn\"></span>获奖经历</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
@@ -635,7 +635,7 @@
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
@@ -657,7 +657,7 @@
             "overlayOpacity": 0.2
           },
           "title": "EASY TO USE!",
-          "text": "<p>教育背景</p><p>2015.08-2019.06 长安大学 广告学专业</p><p>主修课程： 传播学、广告文案、广告效果研究、消费学行为学等</p><p>2019.09-至今 南京大学 新闻与传播</p><p>主修课程：新闻理论、电视节目个案研究、新媒体研究等</p><p>实习经历</p><p>                                                                       2019.06—2019.08 网易传媒科技有限公司 运营编辑实习生</p><p>• 负责网易新闻教育频道个性化机选push</p><p>• 运营网易教育频道官方微博和官方微信，官方微博周阅读量平均15w+</p><p>2017.07—2017.08 西安顺美广告公司 实习生</p><p>• 负责西安顺美广告公司平面设计及文案策划协助工作。</p><p>• 完成西安民生保险年中表彰大会平面广告图制作及现场布置。</p><p>获奖经历</p><p>2016—2018年 中国大学生广告艺术节学院奖 广告文案类共10项</p><p>2017—2018年  全国大学生广告艺术大赛 共6项</p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p><br></p><p>2016—2018年 中国大学生广告艺术节学院奖 广告文案类共10项\r</p><p>2017—2018年 全国大学生广告艺术大赛 共6项\r</p><p>\r</p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "主题"
